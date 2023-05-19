@@ -1,7 +1,7 @@
 package Ch07;
 
 public class Truck extends Car {
-//a
+
 	private int weight = 0;
 
 	Truck() {
